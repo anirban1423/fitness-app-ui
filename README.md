@@ -18,8 +18,6 @@ II) Clickable prototype: https://www.figma.com/proto/rJchg1bB8iLAZXUjmnu31l/Fitn
 
 III) Detailed project report: https://docs.google.com/document/d/1V6e2zl-RTJppXBAIEJiOBjz6dBWIoJEzQvkca8-gI_o/edit?usp=sharing
 
-IV) Walkthrough video: 
-
 3.Featured screens: 
 
 I) Splash Screen - Branding, logo mark.
