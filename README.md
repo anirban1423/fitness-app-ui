@@ -7,10 +7,13 @@ Tool: Figma
 Difficulty: Advanced
 
 Overview:
+
 Fitflow is designed around a locked example persona — a user with a Weight Loss goal, Intermediate fitness level, and a preference for Home Workouts, Cardio, and Strength Training. Every screen in the flow reflects this persona consistently, from onboarding through the dashboard, workout plan, and progress tracking.
 
 Links:
+
 I) Figma file: https://www.figma.com/design/rJchg1bB8iLAZXUjmnu31l/Fitness-App-UI?node-id=0-1&t=9mX1rFIsNNTnRFjR-1 (Request access please)
+
 II) Clickable prototype: https://www.figma.com/proto/rJchg1bB8iLAZXUjmnu31l/Fitness-App-UI?node-id=2-3&p=f&viewport=2244%2C652%2C0.31&t=OZLrlpRK5Yx6s9Ee-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A3&page-id=0%3A1 (Request access please)
 III) Detailed project report: https://docs.google.com/document/d/1V6e2zl-RTJppXBAIEJiOBjz6dBWIoJEzQvkca8-gI_o/edit?usp=sharing
 IV) Walkthrough video: 
